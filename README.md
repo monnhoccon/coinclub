@@ -1,0 +1,2 @@
+# coinclub
+bot Coinclub
